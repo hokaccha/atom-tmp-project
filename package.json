@@ -1,0 +1,15 @@
+{
+  "name": "tmp-project",
+  "main": "./lib/tmp-project",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "https://github.com/hokaccha/atom-tmp-project",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.0",
+    "moment": "^2.9.0"
+  }
+}
